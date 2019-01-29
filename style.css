@@ -1,0 +1,59 @@
+header {
+    text-align: center;
+}
+
+.bold {
+    font-weight:bold;
+    }
+
+    header{
+        background-color: #1c4587;
+        height: 50px;
+        width: 100%;
+    }
+    header h1{
+        color: white;
+        
+    }
+
+    body {
+        font-family:sans-serif;
+    
+      }
+
+      header {
+    text-align: center;
+}
+footer{
+    background-color: #1c4587;
+    height: 70px;
+    width: 100%;
+}
+
+main {
+    position:relative;
+    height: 40vh;
+}
+.paragraphs{
+    position: absolute;
+    left: 340px;
+    width: 40vw;
+    top:20px;
+}
+
+h2{
+    border-top-style: solid;
+    border-top-color:#cfe2f3;
+    border-top-width:15px;
+}
+
+.image-sidebar{
+    position:absolute;
+    right: 250px;
+    width: 15vw;
+    top: 54px;
+}
+
+.image-sidebar p{
+    font-size: 0.6rem;
+}
